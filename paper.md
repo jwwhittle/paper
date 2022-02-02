@@ -5,11 +5,14 @@ new paper
 J Bloggs
 E Xample
 
-#Introduction
+# Introduction
 this is an introduction to this file (jones et al)
 
-#Context
+# Context
 cite instrument paper in introduction
 
-#Simulations
+# Simulations
 these are the simulations
+
+# Methodology
+this is a methodology
