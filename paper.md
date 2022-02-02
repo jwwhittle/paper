@@ -19,3 +19,6 @@ this is a methodology
 
 # Results
 these are results.
+
+# Figures
+thse are figures
